@@ -1,0 +1,11 @@
+{
+    "stage": {
+      "bucketName": "static-website-staging-bucket",
+      "requestLogging": false
+    },
+    "prod": {
+      "bucketName": "static-website-production-bucket",
+      "requestLogging": true
+    }
+  }
+  
